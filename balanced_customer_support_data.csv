@@ -1,0 +1,121 @@
+query,category,sentiment,escalation
+How do I reset my password?,Refund,Negative,1
+What are the billing details for last month?,Technical,Negative,0
+"My internet is not working, please help.",Technical,Neutral,1
+I would like a refund for the overcharge.,Technical,Neutral,0
+"Your service is great, thanks for the help!",Refund,Positive,1
+I want to upgrade my plan to the premium one.,Technical,Positive,0
+"The website is not loading, can you help?",Technical,Negative,1
+I need a technician to install the new software.,Upgrade,Neutral,0
+How can I check my account balance?,Refund,Positive,1
+"My account is locked, I cannot access it.",Service,Negative,0
+Why did I get charged twice this month?,Service,Negative,1
+Can you help me track my package?,Refund,Positive,0
+I am not happy with the quality of the service.,Account,Neutral,0
+How do I cancel my subscription?,Refund,Negative,1
+Can I speak to a supervisor regarding my issue?,Technical,Negative,0
+I would like to change my email address.,Upgrade,Positive,1
+"I received a damaged product, can I get a refund?",Technical,Positive,0
+Why is my internet so slow today?,Technical,Negative,0
+How can I upgrade to a faster internet plan?,Feedback,Neutral,0
+"I was charged incorrectly, can you explain?",Account,Positive,0
+"Your service is very reliable, I’m happy with it.",Refund,Neutral,0
+How can I access my invoice for last month?,Billing,Neutral,0
+I want to report a fraudulent activity on my account.,Technical,Neutral,0
+Your customer service is very unhelpful.,Billing,Positive,0
+Can I update my shipping address?,Account,Positive,1
+I’m having trouble with the Wi-Fi connection.,Upgrade,Neutral,0
+How can I view my recent transactions?,Refund,Negative,0
+I want to add a new feature to my account.,Feedback,Neutral,0
+Can you help me with my subscription renewal?,Account,Positive,1
+The technician missed the scheduled appointment.,Billing,Positive,0
+Why is my account locked again?,Refund,Neutral,0
+I want to speak with someone in customer support.,Technical,Negative,1
+I want a refund for the payment I made last month.,Account,Neutral,0
+How can I disable my account temporarily?,Billing,Negative,1
+I’m experiencing issues with the website login.,Service,Negative,1
+I’d like to change my payment method.,Technical,Positive,0
+The support team has not been helpful at all.,Account,Neutral,0
+Can I update my payment details?,Upgrade,Negative,0
+"I received an incorrect bill, can I get clarification?",Technical,Neutral,1
+How do I change my subscription plan?,Feedback,Positive,0
+The refund process has been taking too long.,Billing,Neutral,1
+I have a complaint about the recent product.,Feedback,Negative,0
+Can I get a refund for the extra charges on my bill?,Refund,Positive,0
+I’m not happy with the service quality.,Account,Neutral,0
+What is the status of my order?,Account,Positive,0
+How do I get support for a technical issue?,Refund,Positive,0
+Can I get a discount on my subscription?,Upgrade,Neutral,1
+I would like to file a complaint about a technician.,Upgrade,Negative,1
+I’m interested in adding more services to my plan.,Refund,Positive,1
+I was charged for services I didn’t use.,Service,Positive,0
+Why are my internet speeds so low?,Feedback,Neutral,0
+I want to cancel my subscription due to poor service.,Upgrade,Negative,1
+I need assistance with changing my registered email.,Billing,Positive,0
+Can I get a technician to fix my Wi-Fi?,Refund,Neutral,1
+How can I track my order shipment?,Feedback,Neutral,1
+Can I upgrade my plan to include more data?,Feedback,Negative,1
+I want a refund because the product is faulty.,Refund,Negative,0
+I’d like to file a complaint about a technician.,Technical,Neutral,0
+How do I report an issue with my account?,Technical,Positive,0
+Can I add a secondary email to my account?,Upgrade,Positive,0
+How do I change the billing cycle?,Technical,Negative,0
+I want a refund for the subscription charges.,Upgrade,Negative,0
+Can I upgrade my plan to get more features?,Refund,Positive,0
+I would like to know the billing details for last month.,Service,Positive,0
+"The support team has been very helpful, thank you!",Upgrade,Positive,0
+How do I cancel my service?,Technical,Neutral,1
+Can you explain the charges on my bill?,Refund,Positive,1
+I need help with my billing issue.,Technical,Neutral,1
+I want to escalate my complaint to a supervisor.,Service,Negative,1
+How do I reset my security question?,Refund,Neutral,0
+How do I unsubscribe from your newsletter?,Technical,Positive,0
+Can you help me check the status of my refund?,Upgrade,Neutral,1
+Can you help me recover my account password?,Technical,Positive,0
+The customer service is very slow.,Upgrade,Neutral,0
+I would like to get a discount on my next payment.,Account,Neutral,1
+How do I update my billing address?,Billing,Negative,0
+The technician was late for the appointment.,Feedback,Neutral,0
+I can’t find my payment receipt anywhere.,Refund,Neutral,1
+"I want to change my payment method, how can I do that?",Upgrade,Positive,0
+I want to downgrade my subscription plan.,Feedback,Positive,1
+I’m facing issues with account verification.,Upgrade,Neutral,1
+I have not received my refund yet.,Account,Neutral,1
+How can I report a bug in your software?,Feedback,Negative,0
+Can I get a refund for the extra charges on my bill?,Service,Positive,1
+I want to upgrade my account to premium services.,Billing,Negative,1
+"The connection drops frequently, can you fix it?",Service,Neutral,0
+How do I cancel my account permanently?,Billing,Neutral,0
+I need assistance with subscription cancellation.,Upgrade,Positive,1
+"I’ve been overcharged, can you help?",Refund,Negative,1
+"My internet is not working at all, please help.",Service,Negative,1
+How can I get my refund processed faster?,Upgrade,Positive,1
+Can I change my subscription to another plan?,Service,Neutral,1
+I need help with resetting my password.,Billing,Positive,1
+Why was I charged for the wrong service?,Service,Negative,0
+Can I update my service preferences?,Billing,Negative,1
+I would like to switch to a different plan.,Refund,Negative,1
+I need a refund for the extra payment charged.,Billing,Neutral,0
+Can I report a service outage in my area?,Billing,Neutral,0
+How do I check the status of my service request?,Billing,Positive,1
+Can I change the plan for my subscription?,Upgrade,Positive,0
+I’m having trouble accessing my account.,Feedback,Negative,1
+How do I reset my security settings?,Technical,Negative,1
+I’d like to file a complaint about the poor service.,Refund,Neutral,1
+How can I check if my payment was processed?,Billing,Positive,1
+Why is my internet service so slow?,Billing,Neutral,1
+Can I change my account details?,Refund,Neutral,0
+I need help with the billing issue.,Technical,Positive,0
+How do I report a fraudulent charge?,Feedback,Neutral,1
+I need a technician for an installation service.,Feedback,Negative,0
+How do I upgrade my service?,Technical,Negative,0
+"I’m not happy with the service quality, can I cancel?",Billing,Negative,0
+Can I file a complaint about a technician?,Service,Positive,0
+How do I contact a customer service representative?,Account,Negative,0
+Can I report an issue with my billing?,Refund,Positive,0
+How do I get support for my internet issue?,Upgrade,Neutral,1
+Can I get help with a refund for a faulty product?,Service,Negative,0
+I would like to cancel my account due to service issues.,Technical,Positive,0
+How do I escalate my complaint?,Upgrade,Positive,1
+I need assistance with my billing questions.,Refund,Negative,0
+I want to upgrade my internet plan.,Technical,Negative,1

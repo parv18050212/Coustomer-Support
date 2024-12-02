@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Customer Support</title>
+    <link rel="stylesheet" href="/static/styles.css"> <!-- Link to CSS -->
+</head>
+<body>
+    <div class="container">
+        <h1>AI Customer Support</h1>
+        <p>Submit your query to get predictions.</p>
+
+        <form id="queryForm">
+            <div class="form-group">
+                <label for="query">Enter your query:</label>
+                <input
+                    type="text"
+                    id="query"
+                    name="query"
+                    placeholder="Type your query here..."
+                    required
+                >
+            </div>
+            <button type="submit" class="btn">Submit</button>
+        </form>
+
+        <div id="responseContainer" class="response" style="display: none;">
+            <h3>Predictions</h3>
+            <p><strong>Query:</strong> <span id="responseQuery"></span></p>
+            <p><strong>Escalation:</strong> <span id="responseEscalation"></span></p>
+            <p><strong>Category:</strong> <span id="responseCategory"></span></p>
+            <p><strong>Sentiment:</strong> <span id="responseSentiment"></span></p>
+        </div>
+
+        <div id="errorContainer" class="error" style="display: none;"></div>
+    </div>
+
+    <script src="/static/script.js"></script> <!-- Link to JS -->
+</body>
+</html>
